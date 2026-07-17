@@ -28,7 +28,7 @@ Google Colab で開く場合はインストール不要です。
 
 ## ライセンス
 
-MIT License(詳細は LICENSE を参照)
+Apache-2.0 License(詳細は LICENSE を参照)
 
 ## 出典・参考
 
